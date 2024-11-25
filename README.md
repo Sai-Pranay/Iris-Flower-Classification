@@ -9,10 +9,7 @@ This project demonstrates the classification of iris flowers into three species:
 - [Overview](#overview)  
 - [Dataset](#dataset)  
 - [Project Structure](#project-structure)  
-- [Dependencies](#dependencies)  
-- [Usage](#usage)  
 - [Results](#results)  
-- [Contributing](#contributing)  
 
 ---
 
@@ -51,3 +48,14 @@ iris-flower-classification/
 ├── models/               # Saved models
 ├── README.md             # Project documentation
 └── requirements.txt      # Python dependencies
+
+---
+
+## Results
+
+Model performance:  
+- **Logistic Regression**: 95.5% accuracy  
+- **K-Nearest Neighbors (KNN)**: 95.5% accuracy  
+- **Decision Tree**: 93.3% accuracy  
+
+Confusion matrices and classification reports are included in the project for better insights.
