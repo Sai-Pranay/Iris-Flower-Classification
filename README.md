@@ -48,14 +48,3 @@ iris-flower-classification/
 ├── models/               # Saved models
 ├── README.md             # Project documentation
 └── requirements.txt      # Python dependencies
-
----
-
-## Results
-
-Model performance:  
-- **Logistic Regression**: 95.5% accuracy  
-- **K-Nearest Neighbors (KNN)**: 95.5% accuracy  
-- **Decision Tree**: 93.3% accuracy  
-
-Confusion matrices and classification reports are included in the project for better insights.
